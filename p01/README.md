@@ -37,3 +37,8 @@ dari Code Runner (build lalu jalankan).
 Folder `p01` di repository `pt-NPM` berisi `hello.cpp`, `rerata.cpp` hasil porting, dan
 `catatan_kesalahan.md` (empat jenis kesalahan beserta pesan yang muncul). Lihat Modul Pertemuan 1
 bagian E.
+
+
+___
+# DEKLARASI AI
+saya tidak menggunakan ai, saya bertanya kepada teman.
